@@ -1,6 +1,6 @@
 ﻿using System.IO;
 
-namespace NetworkFramework.Extention
+namespace GameSparks.NetworkFramework.Extention
 {
 	public static class StreamClass 
 	{
